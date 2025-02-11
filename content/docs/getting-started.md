@@ -1,36 +1,24 @@
 ---
 title: Getting Started
-date: 2024-02-17
+date: 2025-02-12
 weight: 1
 ---
 
-## Quick Start from Template
+## What you need 
 
-{{% steps %}}
+### Hardware
+* An ESP32 board. (with our extension board)
+* USB cable - USB A / micro USB B.
+* Computer running Windows, Linux, or macOS.
 
-### Initialize a new site
-
-[Click to copy the template on GitHub](https://github.com/new?template_name=theme-documentation&template_owner=HugoBlox)
-
-### Configure your new site
-
-[Configure your site name, description, and menu.](https://docs.hugoblox.com/tutorial/blog/)
-
-### Add your content
-
-[Edit the homepage and add your documentation pages.](https://docs.hugoblox.com/tutorial/blog/)
-
-### Publish your site
-
-[Easily publish your site for free with GitHub Pages](https://docs.hugoblox.com/tutorial/blog/)
-
-{{% /steps %}}
+### Software
+* Visual Studio Code （recommended） or Eclipse
+* ESP-IDF plugin 
 
 ## Next
 
-Let's customize your new site:
+Let's start our journey:
 
 {{< cards >}}
-  {{< card url="../guide/project-structure" title="Project Structure" icon="document-duplicate" >}}
-  {{< card url="../guide/configuration" title="Configuration" icon="adjustments-vertical" >}}
+  {{< card url="../Setting_Up_Development_Environment/Setting Up Development Environment" title="Setting Up Development Environment" icon="document-duplicate" >}}
 {{< /cards >}}
