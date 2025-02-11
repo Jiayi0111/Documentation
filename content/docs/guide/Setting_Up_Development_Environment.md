@@ -1,5 +1,5 @@
 ---
-title: Project Structure
+title: Setting Up Development Environment
 weight: 1
 ---
 
